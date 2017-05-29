@@ -6,6 +6,8 @@ Selenium WebDriver é uma ferramenta opesource com uma base grande de conhecimen
 
 - Preparação do Ambiente:
 
+Baixe o repositório 
+
 Instale o Ruby 2.4.1-1 x64: https://rubyinstaller.org/downloads/
 
 Instale o Devkit 4.7.2 x64 : https://rubyinstaller.org/downloads/
